@@ -4,6 +4,15 @@
 
 ### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
 
+## HTML+CSS+javascript template 
+
+A template has been used to create this website in react
+
+https://www.styleshout.com/free-templates/ceevee/ 
+- version 1.0 not available anymore, see version 2 : this template can be previewed here: https://www.styleshout.com/demo/?theme=ceevee
+
+This template contains CSS and javascript files wich are located in public folder and referenced in public/index.html
+
 ## Resume Starter Pack Description
 
 This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses.
