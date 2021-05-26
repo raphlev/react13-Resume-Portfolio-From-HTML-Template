@@ -16,8 +16,10 @@ This template contains CSS and javascript files wich are located in public folde
 ## Credits
 
 ##### Original Idea
-
 <a href="https://github.com/tbakerx/react-resume-template">Inspiration from Tim Baker (tbakerx)</a>
+
+##### Update
+This has been transformed with latest react new functionnalities (hooks, arrow functions, etc..)
 
 ## Resume Starter Pack Description
 
