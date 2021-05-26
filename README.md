@@ -13,6 +13,12 @@ https://www.styleshout.com/free-templates/ceevee/
 
 This template contains CSS and javascript files wich are located in public folder and referenced in public/index.html
 
+## Credits
+
+##### Original Idea
+
+<a href="https://github.com/tbakerx/react-resume-template">Inspiration from Tim Baker (tbakerx)</a>
+
 ## Resume Starter Pack Description
 
 This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses.
@@ -58,9 +64,3 @@ Once all the formatting and data input is finalised, run `npm run build`. This w
 5) The app will begin deploying & the deployment URL will be presented!
 
 🚀 BOOM, you are now LIVE!!!
-
-## Credits
-
-##### Original Idea
-
-<a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>
